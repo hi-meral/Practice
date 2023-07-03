@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hello one
 
 line two
 
 new line
+=======
+hello one
+>>>>>>> parent of d2d6332 (Adding new)
